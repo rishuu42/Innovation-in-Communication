@@ -1,0 +1,5 @@
+The Code is written without the use of any libraries, so please use the maximum possible output screen
+Preferably, use IDLE, or Python GUI directly in the fullscreen. The text are made to fit on a full screen.
+
+And the main code, is inside the Code Folder, named "FILE TO RUN",rest are the modules, that i've imported 
+and used inside the main code.
